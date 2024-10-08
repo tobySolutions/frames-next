@@ -1,4 +1,5 @@
 /** @jsxImportSource frog/jsx */
+export const runtime = 'edge';
 
 import { Button, Frog, TextInput } from "frog";
 import { devtools } from "frog/dev";
